@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+nav{
+    background-color: #060807; 
+    .navbar-brand{
+        img{
+            width: 200px;
+        }
+    }
+    .nav-link{
+        color: white !important;
+        font-size: 18px !important;
+    }
+    .navbar-toggler{
+        i{
+            color: white;
+        }
+    }
+}
+.landing{
+    background-image: url("../pics/paul-volkmer-fX-qWsXl5x8-unsplash.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+    padding: 150px 0px 50px;
+    .text-area{
+        text-align: center;
+        h1{
+            color: rgb(255, 255, 255);
+            font-size: 80px;
+        }
+        h4{
+            color: gray;
+            font-size: 30px;
+        }
+        button{
+            padding: 10px;
+            color: rgb(0, 0, 0);
+            font-size: 15px;
+            font-weight: 800;
+            background-color: pink;
+            border: none;
+            border-radius: 5px;
+
+        }
+    }
+    .img-area{
+        img{
+            height: 500px;
+        }
+    }
+}
