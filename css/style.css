@@ -24,6 +24,8 @@ nav .navbar-toggler i {
 
 .landing {
   background-image: url("../pics/paul-volkmer-fX-qWsXl5x8-unsplash.jpg");
+  background-size: cover;
+  background-attachment: fixed;
   display: flex;
   justify-content: center;
   align-items: center;
