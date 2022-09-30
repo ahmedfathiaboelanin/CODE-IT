@@ -11,9 +11,6 @@ body {
   background-attachment: fixed;
 }
 
-nav {
-  background-color: #060807;
-}
 nav .navbar-brand img {
   width: 200px;
 }
@@ -106,4 +103,11 @@ section {
   height: 10px;
   left: 50%;
   transform: translateX(-50%);
+}
+
+.categories {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }/*# sourceMappingURL=style.css.map */

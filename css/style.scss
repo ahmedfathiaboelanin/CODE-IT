@@ -10,7 +10,7 @@ body{
     background-attachment: fixed;
 }
 nav{
-    background-color: #060807; 
+    // background-color: #060807; 
     .navbar-brand{
         img{
             width: 200px;
@@ -28,7 +28,7 @@ nav{
 }
 section{
     width: 100%;
-        min-height: 100vh;
+    min-height: 100vh;
 }
 .landing{
     display: flex;
@@ -104,4 +104,10 @@ section{
     height: 10px;
     left: 50%;
     transform: translateX(-50%);
+}
+.categories{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
