@@ -5,6 +5,9 @@
 }
 body{
     font-family: 'Roboto', sans-serif;
+    background-image: url("../pics/paul-volkmer-fX-qWsXl5x8-unsplash.jpg");
+    background-size: cover;
+    background-attachment: fixed;
 }
 nav{
     background-color: #060807; 
@@ -23,10 +26,11 @@ nav{
         }
     }
 }
+section{
+    width: 100%;
+        min-height: 100vh;
+}
 .landing{
-    background-image: url("../pics/paul-volkmer-fX-qWsXl5x8-unsplash.jpg");
-    background-size: cover;
-    background-attachment: fixed;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -44,12 +48,11 @@ nav{
             font-size: 30px;
         }
         button{
-            padding: 10px;
-            color: rgb(0, 0, 0);
-            font-size: 15px;
+            padding: 15px;
+            color: rgb(255, 255, 255);
+            font-size: 20px;
             font-weight: 800;
-            background-color: pink;
-            border: none;
+            background: linear-gradient(to bottom, #000099 0%, #003366 100%);            border: none;
             border-radius: 5px;
 
         }
@@ -59,4 +62,46 @@ nav{
             height: 500px;
         }
     }
+}
+.about{
+    position: relative;
+    padding-top: 50px;
+    .text-area{
+        margin-top: 100px;
+        h4 {
+                max-width: 400px;
+                line-height: 50px;
+                text-align: center;
+            }
+    }
+}
+.secTitle{
+    position: absolute;
+    padding-bottom: 10px;
+    top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    h1{
+        color: white;
+    }
+}
+.secTitle::after{
+    position: absolute;
+    content: "";
+    bottom: 4px;
+    width: 200%;
+    background-color: aqua;
+    height: 3px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.secTitle::before{
+    position: absolute;
+    content: "";
+    bottom: 0;
+    width: 50%;
+    background-color: aqua;
+    height: 10px;
+    left: 50%;
+    transform: translateX(-50%);
 }
