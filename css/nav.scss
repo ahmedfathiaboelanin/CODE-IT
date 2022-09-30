@@ -1,0 +1,29 @@
+:root {
+    --nav-color: #633bf3;
+    --font: #9227f9;
+    --bg: #dce2f1;
+    --white: #fff;
+    --gradient: linear-gradient(#9227f9, #633bf3);
+    --gradient-hover: linear-gradient(#633bf3, #9227f9);
+}
+
+.navbar {
+    position: fixed !important;
+    width: 100%;
+    top: 0;
+    left: 0;
+    align-items: center;
+    background: var(--gradient) !important;
+
+    .nav-link {
+        font-size: 20px !important;
+        font-weight: 500 !important;
+        color: white !important;
+    }
+
+    .navbar-toggler {
+        i {
+            color: var(--white) !important;
+        }
+    }
+}

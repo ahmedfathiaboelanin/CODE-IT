@@ -1,113 +1,151 @@
 * {
-  margin: 0;
   padding: 0;
+  margin: 0;
   box-sizing: border-box;
 }
 
+:root {
+  --nav-color: #633bf3;
+  --font: #9227f9;
+  --bg: #f0f0f0;
+  --white: #fff;
+  --gradient: linear-gradient(#9227f9, #633bf3);
+  --gradient-hover: linear-gradient(#633bf3, #9227f9);
+}
+
 body {
-  font-family: "Roboto", sans-serif;
-  background-image: url("../pics/paul-volkmer-fX-qWsXl5x8-unsplash.jpg");
-  background-size: cover;
-  background-attachment: fixed;
-}
-
-nav .navbar-brand img {
-  width: 200px;
-}
-nav .nav-link {
-  color: white !important;
-  font-size: 18px !important;
-}
-nav .navbar-toggler i {
-  color: white;
-}
-
-section {
-  width: 100%;
-  min-height: 100vh;
+  font-family: Tahoma;
+  overflow-x: hidden;
 }
 
 .landing {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   width: 100%;
   min-height: 100vh;
-  padding: 150px 0px 50px;
+  background-color: var(--bg);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .landing .text-area {
   text-align: center;
 }
-.landing .text-area h1 {
-  color: rgb(255, 255, 255);
-  font-size: 80px;
+.landing .text-area h3,
+.landing .text-area h4 {
+  font-weight: 500;
+  color: grey;
 }
 .landing .text-area h4 {
-  color: gray;
-  font-size: 30px;
+  font-size: 15px;
+  margin-bottom: 20px;
 }
-.landing .text-area button {
-  padding: 15px;
-  color: rgb(255, 255, 255);
+.landing .text-area h1 {
+  color: var(--font);
+  font-size: 70px;
+  font-weight: 600;
+  letter-spacing: 5px;
+}
+.landing .text-area a {
+  padding: 10px 20px;
+  background: var(--gradient);
+  color: var(--white);
+  border-radius: 4px;
+  text-decoration: none;
   font-size: 20px;
-  font-weight: 800;
-  background: linear-gradient(to bottom, #000099 0%, #003366 100%);
-  border: none;
-  border-radius: 5px;
+  margin: 20px 0px;
+  border: transparent 2px solid;
 }
-.landing .img-area img {
-  height: 500px;
+.landing .text-area a:hover {
+  background: transparent;
+  color: var(--font);
+  border: var(--nav-color) 2px solid;
+  transition: 0.5s ease;
+}
+@media (max-width: 400px) {
+  .landing .text-area {
+    text-align: center;
+  }
+  .landing .text-area h1 {
+    font-size: 30px;
+  }
+}
+@media (max-width: 1000px) {
+  .landing .text-area h1 {
+    font-size: 40px;
+  }
 }
 
 .about {
+  width: 100%;
+  min-height: 100vh;
+  padding: 50px 0px;
   position: relative;
-  padding-top: 50px;
 }
-.about .text-area {
-  margin-top: 100px;
-}
-.about .text-area h4 {
-  max-width: 400px;
-  line-height: 50px;
-  text-align: center;
-}
-
-.secTitle {
+.about .title {
   position: absolute;
-  padding-bottom: 10px;
   top: 50px;
   left: 50%;
   transform: translateX(-50%);
 }
-.secTitle h1 {
-  color: white;
+.about .title h2 {
+  font-size: 50px;
+  color: rgba(147, 39, 249, 0.5607843137);
+  font-weight: 700;
+}
+.about .about-text {
+  text-align: start;
+  margin-top: 100px;
+}
+.about .about-text span {
+  color: var(--nav-color);
+}
+.about .about-text a {
+  padding: 10px 20px;
+  background: var(--gradient);
+  color: var(--white);
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 20px 0px;
+  display: inline-block;
+  margin-top: 20px;
+  border: 2px solid transparent;
+}
+.about .about-text a:hover {
+  background: transparent;
+  color: var(--font);
+  border: var(--nav-color) 2px solid;
 }
 
-.secTitle::after {
-  position: absolute;
-  content: "";
-  bottom: 4px;
-  width: 200%;
-  background-color: aqua;
-  height: 3px;
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-.secTitle::before {
-  position: absolute;
-  content: "";
-  bottom: 0;
-  width: 50%;
-  background-color: aqua;
-  height: 10px;
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-.categories {
-  position: relative;
+footer {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100%;
+  padding: 50px 0px 10px;
+  background: var(--gradient-hover);
+}
+footer ul {
+  list-style: none;
+  text-align: center;
+}
+footer ul li h3 {
+  color: #c5eb0b;
+}
+footer ul h3 {
+  color: black;
+  margin-bottom: 20px;
+  text-transform: capitalize;
+}
+footer ul a {
+  text-decoration: none;
+  color: var(--white);
+  font-size: 20px;
+}
+footer p {
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 800;
+  color: var(--white);
 }/*# sourceMappingURL=style.css.map */
