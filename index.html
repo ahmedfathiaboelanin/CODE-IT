@@ -8,6 +8,9 @@
   <!-- Bootstrap CSS v5.2.0-beta1 -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"
     integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    <!-- owl -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <!-- font awesome -->
   <link rel="stylesheet" href="css/all.min.css">
   <!-- animate.css -->
@@ -51,7 +54,7 @@
             <h3>Welcome to our Platform</h3>
             <h1>&lt;CODE IT&gt;</h1>
             <h4>Learn how to code for free</h4>
-            <a href="#categories" class="btn ">Check our courses <i class="fa-solid fa-arrow-right"></i></a>
+            <a href="#cat" class="btn ">Check our courses <i class="fa-solid fa-arrow-right"></i></a>
             <a href="#about" class="btn">About Us <i class="fa-solid fa-arrow-right"></i></a>
           </div>
           <div class="img-area col-lg-6 d-none d-md-block col-md-6 wow bounceInRight" data-wow-duration="1500ms">
@@ -75,9 +78,85 @@
               this platform contains free youtube courses in programming to be more accessible.
             </p>
             <a href="#" class="btn">Let’s talk</a>
-            <a href="#" class="btn">Check our courses</a>
+            <a href="#cat" class="btn">Check our courses</a>
           </div>
         </div>
+      </div>
+    </section>
+    <section class="categories about" id="cat">
+      <div class="title">
+        <h2>Categories</h2>
+      </div>
+      <div class="container">
+          <div class="owl-carousel owl-theme">
+            <div class="cat-item item">
+              <img src="pics/jackson-sophat-_t-l5FFH8VA-unsplash.jpg" class="img-fluid" alt="front-end course">
+              <h2>front-end</h2>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              <a href="#" class="btn">Let’s take a look</a>
+            </div>
+            <div class="cat-item item">
+              <img src="pics/backend.jpg" class="img-fluid" alt="front-end course">
+              <h2>back-end</h2>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              <a href="#" class="btn">Let’s take a look</a>
+            </div>
+            <div class="cat-item item">
+              <img src="pics/ds.jpeg" class="img-fluid" alt="front-end course">
+              <h2 class="fs-3 fw-900">data structure</h2>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              <a href="#" class="btn">Let’s take a look</a>
+            </div>
+            <div class="cat-item item">
+              <img src="pics/oop.jpeg" class="img-fluid" alt="front-end course">
+              <h2>OOP</h2>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              <a href="#" class="btn">Let’s take a look</a>
+            </div>
+            <div class="cat-item item">
+              <img src="pics/fullstack.png" class="img-fluid" alt="front-end course">
+              <h2>fullstack</h2>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              <a href="#" class="btn">Let’s take a look</a>
+            </div>
+            <div class="cat-item item">
+              <img src="pics/c++.png" class="img-fluid" alt="front-end course">
+              <h2>C++</h2>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              <a href="#" class="btn">Let’s take a look</a>
+            </div>
+            <div class="cat-item item">
+              <img src="pics/cs50.jpg" class="img-fluid" alt="front-end course">
+              <h2>CS50</h2>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              <a href="#" class="btn">Let’s take a look</a>
+            </div>
+            <div class="cat-item item">
+              <img src="pics/python.jpg" class="img-fluid" alt="front-end course">
+              <h2>Python</h2>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              <a href="#" class="btn">Let’s take a look</a>
+            </div>
+            <div class="cat-item item">
+              <img src="pics/git.jpg" class="img-fluid" alt="front-end course">
+              <h2>Git & Github</h2>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              <a href="#" class="btn">Let’s take a look</a>
+            </div>
+            <div class="cat-item item">
+              <img src="pics/Add a heading.png" class="img-fluid" alt="front-end course">
+              <h2 class="fs-3">crash-course</h2>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              <a href="#" class="btn">Let’s take a look</a>
+            </div>
+            <div class="cat-item item">
+              <img src="pics/adobe.jpg" class="img-fluid" alt="front-end course">
+              <h2>Adobe</h2>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              <a href="#" class="btn">Let’s take a look</a>
+            </div>
+            
+          </div>
       </div>
     </section>
   </main>
@@ -112,7 +191,7 @@
         </ul>
       </div>
       <div class="row justify-content-center mt-5">
-        <p>made with love By ahmed fathi</p>
+        <p>Made with Love By Ahmed Fathi</p>
       </div>
     </div>
   </footer>
@@ -123,10 +202,15 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.min.js"
     integrity="sha384-ODmDIVzN+pFdexxHEHFBQH3/9/vQ9uori45z4JjnFsRydbmQbmL5t1tQ0culUzyK" crossorigin="anonymous">
   </script>
+  <!-- jquery & owl carousel -->
+  <script src="js/jquery-3.6.0.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
   <!-- wow.js -->
   <script src="js/wow.min.js"></script>
   <script>
     new WOW().init();
   </script>
+  <!-- main js -->
+  <script src="js/main.js"></script>
 </body>
 </html>

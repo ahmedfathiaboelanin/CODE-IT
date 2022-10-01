@@ -81,12 +81,6 @@ body {
   padding: 50px 0px;
   position: relative;
 }
-.about .title {
-  position: absolute;
-  top: 50px;
-  left: 50%;
-  transform: translateX(-50%);
-}
 .about .title h2 {
   font-size: 50px;
   color: rgba(147, 39, 249, 0.5607843137);
@@ -117,35 +111,53 @@ body {
   border: var(--nav-color) 2px solid;
 }
 
-footer {
+.categories {
+  background-color: var(--bg);
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
-  padding: 50px 0px 10px;
-  background: var(--gradient-hover);
+  flex-direction: column;
 }
-footer ul {
-  list-style: none;
-  text-align: center;
+.categories .title {
+  margin-bottom: 100px;
 }
-footer ul li h3 {
-  color: #c5eb0b;
+.categories .cat-item {
+  width: 250px;
+  padding: 20px;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
-footer ul h3 {
-  color: black;
+.categories .cat-item img {
+  height: 200px;
+  border-radius: 50%;
   margin-bottom: 20px;
+}
+.categories .cat-item h2 {
+  color: var(--font);
   text-transform: capitalize;
+  font-weight: 500;
 }
-footer ul a {
-  text-decoration: none;
-  color: var(--white);
-  font-size: 20px;
-}
-footer p {
-  width: 100%;
+.categories .cat-item p {
   text-align: center;
-  font-size: 20px;
-  font-weight: 800;
+}
+.categories .cat-item a {
+  padding: 10px 20px;
+  background: var(--gradient);
   color: var(--white);
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 20px 0px;
+  display: inline-block;
+  margin-top: 20px;
+  border: 2px solid transparent;
+}
+.categories .cat-item a:hover {
+  background: transparent;
+  color: var(--font);
+  border: var(--nav-color) 2px solid;
 }/*# sourceMappingURL=style.css.map */
