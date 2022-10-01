@@ -16,7 +16,7 @@
   background: var(--gradient) !important;
 }
 .navbar .nav-link {
-  font-size: 20px !important;
+  font-size: 16px !important;
   font-weight: 500 !important;
   color: white !important;
 }
@@ -34,14 +34,14 @@ footer {
 }
 footer ul {
   list-style: none;
-  text-align: center;
 }
 footer ul li h3 {
   color: #c5eb0b;
 }
 footer ul h3 {
+  font-size: 20px;
   color: black;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   text-transform: capitalize;
 }
 footer ul a {

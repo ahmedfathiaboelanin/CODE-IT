@@ -3,7 +3,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-
 :root {
     --nav-color: #633bf3;
     --font: #9227f9;
@@ -12,12 +11,10 @@
     --gradient: linear-gradient(#9227f9, #633bf3);
     --gradient-hover: linear-gradient(#633bf3, #9227f9);
 }
-
 body {
     font-family: Tahoma;
     overflow-x: hidden;
 }
-
 .landing {
     width: 100%;
     min-height: 100vh;
@@ -84,7 +81,6 @@ body {
         }
     }
 }
-
 .about {
     width: 100%;
     min-height: 100vh;

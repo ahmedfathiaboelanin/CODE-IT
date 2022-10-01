@@ -16,7 +16,7 @@
     background: var(--gradient) !important;
 
     .nav-link {
-        font-size: 20px !important;
+        font-size: 16px !important;
         font-weight: 500 !important;
         color: white !important;
     }
@@ -43,11 +43,12 @@ footer {
         }
 
         list-style: none;
-        text-align: center;
+        // text-align: center;
 
         h3 {
+            font-size: 20px;
             color: black;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
             text-transform: capitalize;
         }
 
