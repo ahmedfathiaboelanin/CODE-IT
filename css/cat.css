@@ -83,4 +83,88 @@ section .courses .title h2 {
   background: var(--gradient);
   color: var(--white);
   margin-top: 10px;
+}
+
+.popup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  height: 80%;
+  z-index: 100;
+  background-color: var(--bg);
+  border: 2px solid var(--nav-color);
+  display: none;
+}
+.popup h4 {
+  border-bottom: 1px solid var(--nav-color);
+  padding-bottom: 10px;
+}
+.popup .content-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.popup .content-list ul {
+  list-style: circle;
+}
+.popup h3 {
+  display: flex;
+  align-items: flex-end;
+  padding: 20px 0px 0px;
+  font-size: 20px;
+  border-top: 1px solid var(--nav-color);
+}
+.popup h3 img {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin: 0px 5px 0px 10px;
+}
+.popup h3 span {
+  font-size: 15px;
+  font-weight: normal;
+}
+.popup a {
+  background: var(--gradient);
+  color: var(--white);
+  margin-top: 10px;
+  width: 200px;
+  margin: auto;
+  position: absolute;
+  left: 50%;
+  z-index: 10;
+  transform: translate(-50%);
+  bottom: 40px;
+}
+.popup a:hover {
+  transition: 0.3s;
+  background: var(--bg);
+  color: var(--font);
+  border: 2px solid var(--nav-color);
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 30px;
+  color: var(--font);
+  z-index: 10;
+  cursor: pointer;
+}
+
+.layer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  background-color: rgba(0, 0, 0, 0.158);
+  display: none;
 }/*# sourceMappingURL=cat.css.map */

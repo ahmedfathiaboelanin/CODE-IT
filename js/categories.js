@@ -1,7 +1,13 @@
+// select element
 let select = document.getElementById("filter");
 let search = document.querySelector(".searchInput");
 let course = document.querySelectorAll(".courses >div");
-console.log(course);
+let courseBtn = document.querySelectorAll(".item a");
+let popup = document.querySelector(".popup");
+let layer = document.querySelector(".layer");
+let closePop = document.querySelector(".close");
+// ----------------------------------------------
+
 // filter by select
 select.onchange = () => {
     for (let i = 0; i < course.length; i++){
@@ -13,4 +19,21 @@ select.onchange = () => {
             }
         }
 }
+// ------------------------
+
 // filter by search input
+// --------------------------
+
+// show and hide popup
+for (let i = 0; i < courseBtn.length; i++){
+    courseBtn[i].removeAttribute("href")
+    courseBtn[i].addEventListener("click",() => {
+        popup.setAttribute("style","display:flex;")
+        layer.setAttribute("style","display:flex;")
+    })
+}
+closePop.addEventListener("click", () => {
+    popup.setAttribute("style", "display:none;");
+    layer.setAttribute("style", "display:none;");
+})
+// ----------------------------------------
