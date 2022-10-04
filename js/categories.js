@@ -9,7 +9,8 @@ let closePop = document.querySelector(".close");
 let popCreator = popup.childNodes[3].children[2].children[1];
 let popCImg = popup.childNodes[3].children[2].children[0];
 let popDate = popup.childNodes[3].children[3];
-let popList = document.querySelector(".popList")
+let popList = document.querySelector(".popList");
+let popBtn = document.querySelector(".btn")
 // ----------------------------------------------
 // courses content
 let front = {
@@ -52,7 +53,8 @@ for (let i = 0; i < courseBtn.length; i++){
         let courseContent = courseBtn[i].parentElement.children[1].innerHTML;
         let catContent =
           courseBtn[i].parentElement.parentElement.parentElement.parentElement
-            .parentElement.parentElement.parentElement.dataset.search;
+                .parentElement.parentElement.parentElement.dataset.search;
+        popBtn.href = `${courseBtn[i].parentElement.dataset.path}`
         for (let j = 0; j < courseContent.size; j++){
             let list = document.createElement("li");
             let listContent = document.createTextNode(`${catContent.courseContent[j]}`)
