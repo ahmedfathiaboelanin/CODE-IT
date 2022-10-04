@@ -18,13 +18,13 @@
     align-items: flex-start;
     width: 100%;
     min-height: 100vh;
-    padding-top:55px;
+    padding:55px 0px 0px;
     .btnList{
+        padding-bottom: 60px;
         list-style: none;
         position: relative;
         width: 500px;
         overflow-y: auto;
-        overflow-x: visible;
         height: 100vh;
         overflow: auto;
             button{

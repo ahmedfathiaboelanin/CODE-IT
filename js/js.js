@@ -7259,14 +7259,1876 @@ let thirdJson = {
     resultsPerPage: 50,
   },
 };
+let fourthjson = {
+  kind: "youtube#playlistItemListResponse",
+  etag: "oCyJelbhbaV_HKdAGzUomOeFdwU",
+  prevPageToken: "EAEaB1BUOkNKWUI",
+  items: [
+    {
+      kind: "youtube#playlistItem",
+      etag: "-1FHqjvdyGChk9yoGim5eyMCHdE",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi40QTY5NjQzQkQzMjgwNjhD",
+      snippet: {
+        publishedAt: "2022-04-28T21:54:11Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #151 - Update Properties And Built In Constructors",
+        description:
+          "Update Properties And Built In Constructors\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/vBqlMWCejSA/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/vBqlMWCejSA/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/vBqlMWCejSA/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/vBqlMWCejSA/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/vBqlMWCejSA/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 150,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "vBqlMWCejSA",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "NAosUQRssVoBnVBj_4ZOS7cxpfY",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5FOTE3RTBFMjNFMDNEM0Yz",
+      snippet: {
+        publishedAt: "2022-04-28T21:45:01Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #152 - Class Static Properties And Methods",
+        description:
+          "Class Static Properties And Methods\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/xFCh7Whz5gw/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/xFCh7Whz5gw/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/xFCh7Whz5gw/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/xFCh7Whz5gw/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/xFCh7Whz5gw/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 151,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "xFCh7Whz5gw",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "JlIkrBevXqmqBZIElh1a5fdXBi4",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5BNTRGQTE1QjY2NUE5NTAz",
+      snippet: {
+        publishedAt: "2022-04-28T21:45:52Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn JavaScript In Arabic 2021 - #153 - Class Inheritance",
+        description:
+          "Class Inheritance\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/Rhjht0ATx-4/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/Rhjht0ATx-4/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/Rhjht0ATx-4/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/Rhjht0ATx-4/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/Rhjht0ATx-4/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 152,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "Rhjht0ATx-4",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "K0ho62d4nQP5gmu_Y1Yhu47SS-g",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi42NjBGMkRFNDcwMjM2NzYx",
+      snippet: {
+        publishedAt: "2022-04-28T21:46:42Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn JavaScript In Arabic 2021 - #154 - Class Encapsulation",
+        description:
+          "Class Encapsulation\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/EPp4KTSpVFY/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/EPp4KTSpVFY/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/EPp4KTSpVFY/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/EPp4KTSpVFY/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/EPp4KTSpVFY/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 153,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "EPp4KTSpVFY",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "nSa3a7L-UemyOSo5Ip1crz383lU",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi40NTBGRDE5MDg2Q0NEODI4",
+      snippet: {
+        publishedAt: "2022-04-28T21:47:50Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #155 - Prototype Introduction",
+        description:
+          "Prototype Introduction\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/iKEunMHFmVc/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/iKEunMHFmVc/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/iKEunMHFmVc/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/iKEunMHFmVc/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/iKEunMHFmVc/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 154,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "iKEunMHFmVc",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "W-U5Udq-4Ewm4catT4WpTynKCHY",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi40Q0JERDMxNzcwNTk1M0Y0",
+      snippet: {
+        publishedAt: "2022-04-28T21:48:47Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #156 - Add To Prototype Chain And Extend Constructors Features",
+        description:
+          "Add To Prototype Chain And Extend Constructors Features\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/boUkOH37_tM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/boUkOH37_tM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/boUkOH37_tM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/boUkOH37_tM/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/boUkOH37_tM/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 155,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "boUkOH37_tM",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "FKos0GAAS7O7F5ImJLWWETj7oEg",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi4wMTIyMTBBMTA3RDUxNjlD",
+      snippet: {
+        publishedAt: "2022-04-28T21:49:46Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #157 - Object Meta Data And Descriptor Part 1",
+        description:
+          "Object Meta Data And Descriptor Part 1\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/Fn33wjewamg/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/Fn33wjewamg/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/Fn33wjewamg/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/Fn33wjewamg/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/Fn33wjewamg/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 156,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "Fn33wjewamg",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "snXp9k0g5noiZEGwROQ5sOqpBVU",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5DNTU3ODQ4ODAzMjFERTI1",
+      snippet: {
+        publishedAt: "2022-04-28T21:50:26Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #158 - Object Meta Data And Descriptor Part 2",
+        description:
+          "Object Meta Data And Descriptor Part 2\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/IMy3si0WJkE/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/IMy3si0WJkE/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/IMy3si0WJkE/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/IMy3si0WJkE/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/IMy3si0WJkE/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 157,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "IMy3si0WJkE",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "JrA6UUC1P38f-OmJq9xS2eRkcN0",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5CODNEOTFERDNCQjU2ODhE",
+      snippet: {
+        publishedAt: "2022-05-11T18:06:14Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #159 - Date And Time Introduction",
+        description:
+          "Date And Time Introduction\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/G5Ql9pQFxJA/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/G5Ql9pQFxJA/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/G5Ql9pQFxJA/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/G5Ql9pQFxJA/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/G5Ql9pQFxJA/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 158,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "G5Ql9pQFxJA",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "fb2-loLd2OWWt69kA6CWIQUXu_w",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi45NDIzMEVBNjk5NTFGRDZC",
+      snippet: {
+        publishedAt: "2022-05-11T18:06:56Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn JavaScript In Arabic 2021 - #160 - Get Date And Time",
+        description:
+          "Get Date And Time\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/lljWW6UEEhI/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/lljWW6UEEhI/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/lljWW6UEEhI/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/lljWW6UEEhI/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/lljWW6UEEhI/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 159,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "lljWW6UEEhI",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "VGk0xbMzbI-J5oxRVTygwb0dzlM",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5CNEFEOUNDRUMzMjVGMjc2",
+      snippet: {
+        publishedAt: "2022-05-11T18:07:49Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn JavaScript In Arabic 2021 - #161 - Set Date And Time",
+        description:
+          "Set Date And Time\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/rahCIVgxc50/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/rahCIVgxc50/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/rahCIVgxc50/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/rahCIVgxc50/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/rahCIVgxc50/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 160,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "rahCIVgxc50",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "6QIOreLT8SonJvVrKNpcAbgKG_s",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5EREU0QjZERDMzRDBGNTMz",
+      snippet: {
+        publishedAt: "2022-05-11T18:08:41Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #162 - Formatting Date And Time",
+        description:
+          "Formatting Date And Time\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/N4aYazqnvYQ/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/N4aYazqnvYQ/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/N4aYazqnvYQ/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/N4aYazqnvYQ/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/N4aYazqnvYQ/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 161,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "N4aYazqnvYQ",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "rG2JwSeyN27yA8creuQSNskWVyM",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi41RjU0OTVCQThDNUUwQzBD",
+      snippet: {
+        publishedAt: "2022-05-11T18:09:45Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #163 - Tracking Operations Time",
+        description:
+          "Tracking Operations Time\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/YhOuTEAImyk/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/YhOuTEAImyk/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/YhOuTEAImyk/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/YhOuTEAImyk/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/YhOuTEAImyk/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 162,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "YhOuTEAImyk",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "_q3n5uqhv1WAH4zRuZs5fmrm8V4",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5BRjY4NjdBRjA5RTdCMUMx",
+      snippet: {
+        publishedAt: "2022-05-11T18:10:23Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #164 - Generator Function Introduction",
+        description:
+          "Generator Function Introduction\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/6t4YL6aa2XU/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/6t4YL6aa2XU/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/6t4YL6aa2XU/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/6t4YL6aa2XU/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/6t4YL6aa2XU/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 163,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "6t4YL6aa2XU",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "6-v2xI_yDIeHPyWQj9IrxCt0u-U",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5DMkM0MjQ3OTgwQzBCMEZB",
+      snippet: {
+        publishedAt: "2022-05-11T18:11:17Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #165 - Delegate Generator Function",
+        description:
+          "Delegate Generator Function\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/lYb4pnr1nYM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/lYb4pnr1nYM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/lYb4pnr1nYM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/lYb4pnr1nYM/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/lYb4pnr1nYM/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 164,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "lYb4pnr1nYM",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "-Xc1OCNZ9NZLcLskhAOswb0BJLg",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi45QzM0OUZCRDUyMTgwREVG",
+      snippet: {
+        publishedAt: "2022-05-11T18:12:25Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #166 - Generate Infinite Numbers",
+        description:
+          "Generate Infinite Numbers\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/zjANdEj6QSs/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/zjANdEj6QSs/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/zjANdEj6QSs/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/zjANdEj6QSs/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/zjANdEj6QSs/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 165,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "zjANdEj6QSs",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "Kf_WVtAgKPa5ckT5YgpUJWW0MzI",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5CNzAzQzRDMkI3QThEQzZB",
+      snippet: {
+        publishedAt: "2022-05-11T18:13:05Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #167 - Modules Import And Export",
+        description:
+          "Modules Import And Export\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/3NZEb3uPLtM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/3NZEb3uPLtM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/3NZEb3uPLtM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/3NZEb3uPLtM/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/3NZEb3uPLtM/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 166,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "3NZEb3uPLtM",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "i11JmZBoNRaUoLaElYe8LZ31L0Y",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi4xREVBMTg1ODg1M0JCQUE1",
+      snippet: {
+        publishedAt: "2022-05-11T18:13:53Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #168 - Named vs Default Export And Import All",
+        description:
+          "Named vs Default Export And Import All\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/xbW_gX9KIak/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/xbW_gX9KIak/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/xbW_gX9KIak/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/xbW_gX9KIak/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/xbW_gX9KIak/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 167,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "xbW_gX9KIak",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "IT7ACelt4Vjhg1IqASaNq03Zk1U",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi43MzBFRTZDMUM3OTY2RjQ4",
+      snippet: {
+        publishedAt: "2022-05-23T19:48:09Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn JavaScript In Arabic 2021 - #169 - What Is JSON",
+        description:
+          "What Is JSON\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/VA_AROETZ58/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/VA_AROETZ58/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/VA_AROETZ58/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/VA_AROETZ58/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/VA_AROETZ58/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 168,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "VA_AROETZ58",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "qf-xLpPwllsK75e8H0PF-_pEkrw",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5DNzNDRDE1NzhGODQzODI2",
+      snippet: {
+        publishedAt: "2022-05-23T19:48:58Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #170 - JSON Syntax And Compare With JS Object",
+        description:
+          "JSON Syntax And Compare With JS Object\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/mCAe4RZSLrM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/mCAe4RZSLrM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/mCAe4RZSLrM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/mCAe4RZSLrM/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/mCAe4RZSLrM/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 169,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "mCAe4RZSLrM",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "HwjHr95xYQE55lnitBbJGmjTFqg",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi4zQTkyMjEwN0U0QkU3RDg5",
+      snippet: {
+        publishedAt: "2022-05-23T19:50:12Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn JavaScript In Arabic 2021 - #171 - What Is API",
+        description:
+          "What Is API\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/J8_DaHkqw5o/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/J8_DaHkqw5o/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/J8_DaHkqw5o/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/J8_DaHkqw5o/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/J8_DaHkqw5o/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 170,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "J8_DaHkqw5o",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "9R6X4DvwHt7BLVXxjVsvnlXrPIA",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi4yM0YxNkQ4MTExRjg4RUI2",
+      snippet: {
+        publishedAt: "2022-05-23T19:50:57Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn JavaScript In Arabic 2021 - #172 - Parse And Stringify",
+        description:
+          "Parse And Stringify\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/Hoj5Kkn5tSU/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/Hoj5Kkn5tSU/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/Hoj5Kkn5tSU/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/Hoj5Kkn5tSU/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/Hoj5Kkn5tSU/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 171,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "Hoj5Kkn5tSU",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "GPpj6aGeonNkDtxslStH6OuR3W4",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi43Q0UyODJENjc3NDRCODU0",
+      snippet: {
+        publishedAt: "2022-05-23T19:52:19Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #173 - Asynchronous vs Synchronous Programming",
+        description:
+          "Asynchronous vs Synchronous Programming\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/qsncfaOUpyg/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/qsncfaOUpyg/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/qsncfaOUpyg/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/qsncfaOUpyg/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/qsncfaOUpyg/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 172,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "qsncfaOUpyg",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "KX9C6MOlEoDoLUayPNmcb23jxrk",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5DQzY2RDZFRUQyRDlDQkMw",
+      snippet: {
+        publishedAt: "2022-05-23T19:53:02Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #174 - Call Stack And Web API",
+        description:
+          "Call Stack And Web API\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/AzBaH0wNEos/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/AzBaH0wNEos/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/AzBaH0wNEos/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/AzBaH0wNEos/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/AzBaH0wNEos/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 173,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "AzBaH0wNEos",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "S03YVH9crZkg_eaZ8VnpYBZ71MI",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi4wOTkzRUNGQkU5QzI1QTA3",
+      snippet: {
+        publishedAt: "2022-05-23T19:53:58Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #175 - Event Loop And Callback Queue",
+        description:
+          "Event Loop And Callback Queue\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/e-oSGQz7eT8/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/e-oSGQz7eT8/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/e-oSGQz7eT8/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/e-oSGQz7eT8/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/e-oSGQz7eT8/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 174,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "e-oSGQz7eT8",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "y6QPGuUahxiAD6avCi4lSnQ-F6U",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi40MkQ0RjUwRTlGMUU4N0ZG",
+      snippet: {
+        publishedAt: "2022-05-23T19:55:06Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #176 - What Is AJAX And Network Information",
+        description:
+          "What Is AJAX And Network Information\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/X-RkZHyzidc/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/X-RkZHyzidc/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/X-RkZHyzidc/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/X-RkZHyzidc/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/X-RkZHyzidc/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 175,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "X-RkZHyzidc",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "NsQwFq9X5LQwgwGBMt8HMmr0RaI",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5BNjBCMUFCN0Q5QzUyMjlG",
+      snippet: {
+        publishedAt: "2022-05-23T19:55:51Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #177 - Request And Response From Real API",
+        description:
+          "Request And Response From Real API\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/-RmWQYMGeIs/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/-RmWQYMGeIs/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/-RmWQYMGeIs/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/-RmWQYMGeIs/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/-RmWQYMGeIs/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 176,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "-RmWQYMGeIs",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "m-uqzyAiRYcwpQ-3ZzHA4ptEFDM",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi4yMkNBN0M4QUJEQzYxMjA3",
+      snippet: {
+        publishedAt: "2022-05-23T19:56:55Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn JavaScript In Arabic 2021 - #178 - Loop On Data",
+        description:
+          "Loop On Data\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/26ZkK1JcSgE/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/26ZkK1JcSgE/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/26ZkK1JcSgE/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/26ZkK1JcSgE/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/26ZkK1JcSgE/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 177,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "26ZkK1JcSgE",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "4j43-rgbzczs681g6LKYdnKyZHQ",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi4xQ0EyNTVGREQ1Nzk5MkVB",
+      snippet: {
+        publishedAt: "2022-06-13T20:21:44Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #179 - Callback Hell Or Pyramid Of Doom",
+        description:
+          "Callback Hell Or Pyramid Of Doom\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/vZjHCcZJMi4/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/vZjHCcZJMi4/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/vZjHCcZJMi4/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/vZjHCcZJMi4/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/vZjHCcZJMi4/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 178,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "vZjHCcZJMi4",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "sYs69NT2Z12KaWrtVPOa-ZtMRQI",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi41MjA2QjlEREM3NTE0RkJG",
+      snippet: {
+        publishedAt: "2022-06-13T20:23:03Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #180 - Promise Intro And Syntax",
+        description:
+          "Promise Intro And Syntax\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/UXmqduAHxzY/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/UXmqduAHxzY/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/UXmqduAHxzY/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/UXmqduAHxzY/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/UXmqduAHxzY/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 179,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "UXmqduAHxzY",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "jyyKp1nqR0LlvhpPCQ3-8-tuqkM",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi40MkJFNUMzMTJDNkVFQjEy",
+      snippet: {
+        publishedAt: "2022-06-13T20:24:19Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #181 - Promise - Then, Catch And Finally",
+        description:
+          "Promise - Then, Catch And Finally\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/EOysmTtZzzc/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/EOysmTtZzzc/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/EOysmTtZzzc/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/EOysmTtZzzc/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/EOysmTtZzzc/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 180,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "EOysmTtZzzc",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "cyWbcPC3V9UPo2Fsgqv9FLXgU5Q",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5FMUU5ODU1MDE0RTk1Q0Ew",
+      snippet: {
+        publishedAt: "2022-06-13T20:25:17Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn JavaScript In Arabic 2021 - #182 - Promise And XHR",
+        description:
+          "Promise And XHR\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/QvzH9Y8dw2s/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/QvzH9Y8dw2s/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/QvzH9Y8dw2s/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/QvzH9Y8dw2s/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/QvzH9Y8dw2s/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 181,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "QvzH9Y8dw2s",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "oTT0p1c1AXK4obvGTsikbEs1Elo",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi4zNTI2QjhBOThBN0JGQTEx",
+      snippet: {
+        publishedAt: "2022-06-13T20:26:12Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn JavaScript In Arabic 2021 - #183 - Fetch API",
+        description:
+          "Fetch API\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/oO0a7tQcGps/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/oO0a7tQcGps/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/oO0a7tQcGps/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/oO0a7tQcGps/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/oO0a7tQcGps/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 182,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "oO0a7tQcGps",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "3LQH70V-QnkE42q6iRJXqg-iBsE",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5BNTdEMTYxNTdFRkRFMUQ0",
+      snippet: {
+        publishedAt: "2022-06-13T20:27:26Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #184 - Promise All And All Settled And Race",
+        description:
+          "Promise All And All Settled And Race\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/OipVzp0R7zs/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/OipVzp0R7zs/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/OipVzp0R7zs/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/OipVzp0R7zs/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/OipVzp0R7zs/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 183,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "OipVzp0R7zs",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "4K1tnOFRlLbcrgM0Kvw48wZYV0Y",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi5DRkY0QzQxNDhEODU4QUJE",
+      snippet: {
+        publishedAt: "2022-06-13T20:28:28Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn JavaScript In Arabic 2021 - #185 - Async And Training",
+        description:
+          "Async And Training\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/PI2zuNkELTs/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/PI2zuNkELTs/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/PI2zuNkELTs/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/PI2zuNkELTs/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/PI2zuNkELTs/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 184,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "PI2zuNkELTs",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "WoLJIXbfHb7BldtbEQ_jOwqEcK0",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi43Njc4MTZEMDgzNUM1NEVG",
+      snippet: {
+        publishedAt: "2022-06-13T20:29:26Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn JavaScript In Arabic 2021 - #186 - Await And Training",
+        description:
+          "Await And Training\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/5iLxtN4POts/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/5iLxtN4POts/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/5iLxtN4POts/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/5iLxtN4POts/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/5iLxtN4POts/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 185,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "5iLxtN4POts",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "67-15sZOu7wQC13MMEfG4RlI7BQ",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi40NUU5MjUxOUU1MDRGQzM0",
+      snippet: {
+        publishedAt: "2022-06-13T20:30:25Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn JavaScript In Arabic 2021 - #187 - Try, Catch And Finally With Fetch",
+        description:
+          "Try, Catch And Finally With Fetch\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/nb3Hh-gAbM4/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/nb3Hh-gAbM4/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/nb3Hh-gAbM4/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/nb3Hh-gAbM4/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/nb3Hh-gAbM4/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 186,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "nb3Hh-gAbM4",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "t1_sDMnHRG3h-r5G934h45c_gLc",
+      id: "UExEb1Bqdm9ObUJBeDNraXBsUVJfb2VEcUxEQlVEWXdWdi4yMzk0RjU2NDJBMzI5RDE2",
+      snippet: {
+        publishedAt: "2022-06-13T20:31:24Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn JavaScript In Arabic 2021 - #188 - The End And Advices",
+        description:
+          "The End And Advices\n\nStudy Plan:\nhttps://elzero.org/study/javascript-bootcamp-2021-study-plan\n\nCode & Notice:\nhttps://elzero.org/category/courses/javascript-bootcamp/\n\nAssignments:\nhttps://elzero.org/category/assignments/javascript-bootcamp-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/P2M11Inc6EM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/P2M11Inc6EM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/P2M11Inc6EM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/P2M11Inc6EM/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/P2M11Inc6EM/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+        position: 187,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "P2M11Inc6EM",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+  ],
+  pageInfo: {
+    totalResults: 188,
+    resultsPerPage: 50,
+  },
+};
 
 
 let htmlItems = htmlJson.items;
 let secItems = secJson.items;
 let thirdItem = thirdJson.items;
+let fourthItem = fourthjson.items;
 let htmlLength = htmlItems.length;
 let secLength = secItems.length;
 let thirdLength = thirdItem.length;
+let fourthLength = fourthItem.length;
 let toggle = document.querySelector(".toggle");
 let btnList = document.querySelector(".btnList");
 
@@ -7303,6 +9165,13 @@ for (let i = 0; i < thirdLength; i++) {
   secLessonBtn.appendChild(btnText);
   btnList.appendChild(secLessonBtn);
 }
+for (let i = 0; i < fourthLength; i++) {
+  let secLessonBtn = document.createElement("button");
+  let btnText = document.createTextNode(`Lesson ${i + 151}`);
+  secLessonBtn.classList.add("fouthLessonBtn");
+  secLessonBtn.appendChild(btnText);
+  btnList.appendChild(secLessonBtn);
+}
 let lessonBtn = document.querySelectorAll(".lessonBtn");
 for (let i = 0; i < htmlLength; i++) {
   lessonBtn[i].addEventListener("click", () => {
@@ -7325,5 +9194,13 @@ for (let i = 0; i < thirdLength; i++) {
     document.getElementById(
       "videoFrame"
     ).src = `https://www.youtube.com/embed/${thirdItem[i].snippet.resourceId.videoId}?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv`;
+  });
+}
+let fouthLessonBtn = document.querySelectorAll(".fouthLessonBtn");
+for (let i = 0; i < fourthLength; i++) {
+  fouthLessonBtn[i].addEventListener("click", () => {
+    document.getElementById(
+      "videoFrame"
+    ).src = `https://www.youtube.com/embed/${fourthItem[i].snippet.resourceId.videoId}?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv`;
   });
 }
