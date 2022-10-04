@@ -10,7 +10,7 @@ let popCreator = popup.childNodes[3].children[2].children[1];
 let popCImg = popup.childNodes[3].children[2].children[0];
 let popDate = popup.childNodes[3].children[3];
 let popList = document.querySelector(".popList");
-let popBtn = document.querySelector(".btn")
+let popBtn = document.getElementById("popBtn")
 // ----------------------------------------------
 // courses content
 let front = {
@@ -37,33 +37,34 @@ select.onchange = () => {
 }
 // -----------------------
 for (let i = 0; i < courseBtn.length; i++){
-    console.log(courseBtn[i].parentElement.children[1].innerHTML)
+    // console.log(courseBtn[i].parentElement.children[1].innerHTML)
 }
 // filter by search input
 // --------------------------
 
 // show and hide popup
 for (let i = 0; i < courseBtn.length; i++){
-    courseBtn[i].removeAttribute("href")
-    courseBtn[i].addEventListener("click",() => {
-        popup.setAttribute("style", "display:flex;")
-        popCreator.innerHTML = courseBtn[i].parentElement.children[4].childNodes[1].innerHTML;
-        popDate.innerHTML = courseBtn[i].parentElement.children[3].innerHTML;
-        popCImg.src = courseBtn[i].parentElement.children[0].src;
-        let courseContent = courseBtn[i].parentElement.children[1].innerHTML;
-        let catContent =
-          courseBtn[i].parentElement.parentElement.parentElement.parentElement
-                .parentElement.parentElement.parentElement.dataset.search;
-        popBtn.href = `${courseBtn[i].parentElement.dataset.path}`
-        for (let j = 0; j < courseContent.size; j++){
-            let list = document.createElement("li");
-            let listContent = document.createTextNode(`${catContent.courseContent[j]}`)
-            list.appendChild(listContent);
-            popList.appendChild(list)
-        }
-        layer.setAttribute("style","display:flex;")
+    // remove all buttons href
+    courseBtn[i].removeAttribute("href");
+
+    // add click event to all buttons
+    courseBtn[i].addEventListener("click", () => {
+      // show popup with layer
+      popup.setAttribute("style", "display:flex;");
+      layer.setAttribute("style", "display:flex;");
+      // get creator name from courseItem and assign it to popCreator
+      popCreator.innerHTML =
+        courseBtn[i].parentElement.children[4].childNodes[1].innerHTML;
+      // get date from courseItem and assign it to popDate
+      popDate.innerHTML = courseBtn[i].parentElement.children[3].innerHTML;
+      // get img source from courseItem and assign it to popImg
+      popCImg.src = courseBtn[i].parentElement.children[0].src;
+
+      popBtn.href = `${courseBtn[i].parentElement.dataset.path}`;
+
     })
 }
+// close popup with layer
 closePop.addEventListener("click", () => {
     popup.setAttribute("style", "display:none;");
     layer.setAttribute("style", "display:none;");

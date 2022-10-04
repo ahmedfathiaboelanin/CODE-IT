@@ -2427,15 +2427,1873 @@ let htmlJson = {
     resultsPerPage: 50,
   },
 };
+let secJson = {
+  kind: "youtube#playlistItemListResponse",
+  etag: "L8fjjL0F1k3ba31eakXs692pLMY",
+  prevPageToken: "EAEaBlBUOkNESQ",
+  items: [
+    {
+      kind: "youtube#playlistItem",
+      etag: "rmrUvwpzIvhk7o8xZaJd0VzB5ZE",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS44QzVGQUU2QjE2NDgxM0M4",
+      snippet: {
+        publishedAt: "2021-02-23T19:24:53Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #51 - Flex Box Child - Flex Basis, Flex Shorthand",
+        description:
+          "Flex Box Child - Flex Basis, Flex Shorthand\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/0W8KopNcyRY/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/0W8KopNcyRY/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/0W8KopNcyRY/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/0W8KopNcyRY/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/0W8KopNcyRY/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 50,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "0W8KopNcyRY",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "egqOGJFGsuJBwsge-Cpw-ni-oRQ",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS4xMzgwMzBERjQ4NjEzNUE5",
+      snippet: {
+        publishedAt: "2021-02-23T19:26:10Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #52 - Flex Box Child - Align Self, Games, Task",
+        description:
+          "Flex Box Child - Align Self, Games, Task\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/t2e4aYHrowQ/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/t2e4aYHrowQ/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/t2e4aYHrowQ/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/t2e4aYHrowQ/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/t2e4aYHrowQ/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 51,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "t2e4aYHrowQ",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "R72YT25w9H5EDblQjgM4O5HkmIg",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS4zMEQ1MEIyRTFGNzhDQzFB",
+      snippet: {
+        publishedAt: "2021-02-23T19:27:04Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn CSS In Arabic 2021 - #53 - Finish Flex Froggy Game",
+        description:
+          "Finish Flex Froggy Game\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/-sUqEXFzbII/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/-sUqEXFzbII/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/-sUqEXFzbII/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/-sUqEXFzbII/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/-sUqEXFzbII/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 52,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "-sUqEXFzbII",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "tZ-RrN2gRXDAV6u3R5wTKMe-R_E",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS42Qzk5MkEzQjVFQjYwRDA4",
+      snippet: {
+        publishedAt: "2021-02-28T21:54:11Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn CSS In Arabic 2021 - #54 - Filters",
+        description:
+          "Filters\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/2v9ZhqX6YOk/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/2v9ZhqX6YOk/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/2v9ZhqX6YOk/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/2v9ZhqX6YOk/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/2v9ZhqX6YOk/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 53,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "2v9ZhqX6YOk",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "8an9eA5JOlOQY7rotvU_wzR5HEo",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS41NTZEOThBNThFOUVGQkVB",
+      snippet: {
+        publishedAt: "2021-02-28T21:55:05Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn CSS In Arabic 2021 - #55 - Gradients",
+        description:
+          "Gradients\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/Skjr9fycnio/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/Skjr9fycnio/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/Skjr9fycnio/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/Skjr9fycnio/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/Skjr9fycnio/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 54,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "Skjr9fycnio",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "n_VhIE_muX9mvz3WnLYmztjxB9M",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS43NERCMDIzQzFBMERCMEE3",
+      snippet: {
+        publishedAt: "2021-02-28T21:55:54Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #56 - Pointer Events And Caret Color",
+        description:
+          "Pointer Events And Caret Color\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/I6zKVKCewDc/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/I6zKVKCewDc/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/I6zKVKCewDc/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/I6zKVKCewDc/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/I6zKVKCewDc/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 55,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "I6zKVKCewDc",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "qCFyizzmcvqTapz7QaECzwh6CNI",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS5GNjAwN0Y0QTFGOTVDMEMy",
+      snippet: {
+        publishedAt: "2021-03-03T20:49:58Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #57 - Grid - Parent - Template Columns",
+        description:
+          "Grid - Parent - Template Columns\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/wYSAjaB3mL8/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/wYSAjaB3mL8/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/wYSAjaB3mL8/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/wYSAjaB3mL8/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/wYSAjaB3mL8/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 56,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "wYSAjaB3mL8",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "B284mzw4xMFM-aG6z_LwilqB8G0",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS5CQkEwRDA0MDkwNUM2MDY1",
+      snippet: {
+        publishedAt: "2021-03-03T20:50:54Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #58 - Grid - Parent - Template Rows And Gap",
+        description:
+          "Grid - Parent - Template Rows And Gap\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/gZ3XNPelC5Y/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/gZ3XNPelC5Y/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/gZ3XNPelC5Y/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/gZ3XNPelC5Y/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/gZ3XNPelC5Y/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 57,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "gZ3XNPelC5Y",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "BoX38m_Q22llQJOBf0Z3iKVvgwk",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS4wNEU1MTI4NkZEMzVBN0JF",
+      snippet: {
+        publishedAt: "2021-03-03T20:51:57Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #59 - Grid - Parent - Justify Content And Align Content",
+        description:
+          "Justify Content And Align Content\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/IsXAEilbm64/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/IsXAEilbm64/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/IsXAEilbm64/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/IsXAEilbm64/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/IsXAEilbm64/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 58,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "IsXAEilbm64",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "8dePZwzVkpGiiGK3-NUT9vWi3Fg",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS4wMTYxQzVBRDI1NEVDQUZE",
+      snippet: {
+        publishedAt: "2021-03-03T20:53:04Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #60 - Grid - Parent - Complete Layout With Template Areas",
+        description:
+          "Grid - Parent - Complete Layout With Template Areas\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/q6VtSllQHHo/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/q6VtSllQHHo/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/q6VtSllQHHo/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/q6VtSllQHHo/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/q6VtSllQHHo/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 59,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "q6VtSllQHHo",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "Y-gx4JvW5HctT6X09KBu9WWEsTE",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS4zMUEyMkQwOTk0NTg4MDgw",
+      snippet: {
+        publishedAt: "2021-03-03T20:54:14Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #61 - Grid - Child - Grid Column And Grid Row",
+        description:
+          "Grid - Child - Grid Column And Grid Row\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/7RZr_1qvR2g/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/7RZr_1qvR2g/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/7RZr_1qvR2g/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/7RZr_1qvR2g/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/7RZr_1qvR2g/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 60,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "7RZr_1qvR2g",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "s7rHf0dCd3XKRVtt6EshzITNDZo",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS42QzdBMzlBQzQzRjQ0QkQy",
+      snippet: {
+        publishedAt: "2021-03-03T20:55:18Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #62 - Grid - Child - Grid Area And Trainings",
+        description:
+          "Grid - Child - Grid Area And Trainings\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/BJupwn_ii8g/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/BJupwn_ii8g/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/BJupwn_ii8g/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/BJupwn_ii8g/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/BJupwn_ii8g/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 61,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "BJupwn_ii8g",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "K79g2vUZPh6veEWiziqF3XrCbHI",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS41OURENDc2NEM1MDI5Mjky",
+      snippet: {
+        publishedAt: "2021-03-03T20:56:16Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn CSS In Arabic 2021 - #63 - Grid - Min, Max And Auto Fill",
+        description:
+          "Grid - Min, Max And Auto Fill\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/NO4IeLSKNdw/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/NO4IeLSKNdw/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/NO4IeLSKNdw/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/NO4IeLSKNdw/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/NO4IeLSKNdw/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 62,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "NO4IeLSKNdw",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "y_RVCq31WLc-YQ1xXIhnODhHgAc",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS4wRjhFM0MxMTU1MEUzQ0VB",
+      snippet: {
+        publishedAt: "2021-03-03T20:57:26Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn CSS In Arabic 2021 - #64 - Finish The Grid Garden Game",
+        description:
+          "Play The Grid Garden Game\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/-UvL4OoIsHo/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/-UvL4OoIsHo/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/-UvL4OoIsHo/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/-UvL4OoIsHo/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/-UvL4OoIsHo/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 63,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "-UvL4OoIsHo",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "jMz7yAQVvE7-tRRruND1oNSW3mk",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS5CNTZFOTNGQzZEODg1RUQx",
+      snippet: {
+        publishedAt: "2021-03-11T21:21:34Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn CSS In Arabic 2021 - #65 - 2D Transform - Scale",
+        description:
+          "2D Transform - Scale\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/9KQP22oVCMg/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/9KQP22oVCMg/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/9KQP22oVCMg/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/9KQP22oVCMg/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/9KQP22oVCMg/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 64,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "9KQP22oVCMg",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "dAbDrLjqyZ9rS4vI7Sbfq6bu8Bs",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS5CNTcxMDQ0NThBNzMxODYz",
+      snippet: {
+        publishedAt: "2021-03-11T21:22:55Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn CSS In Arabic 2021 - #66 - 2D Transform - Rotate",
+        description:
+          "2D Transform - Rotate\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/AtOB_b0Cjyo/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/AtOB_b0Cjyo/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/AtOB_b0Cjyo/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/AtOB_b0Cjyo/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/AtOB_b0Cjyo/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 65,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "AtOB_b0Cjyo",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "vbjwKWflGm13CcNjAZ7uDjrReJs",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS5ERkUyQTM0MzEwQjZCMTY5",
+      snippet: {
+        publishedAt: "2021-03-11T21:23:54Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn CSS In Arabic 2021 - #67 - 2D Transform - Translate",
+        description:
+          "2D Transform - Translate\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/PklNgYpJSXs/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/PklNgYpJSXs/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/PklNgYpJSXs/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/PklNgYpJSXs/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/PklNgYpJSXs/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 66,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "PklNgYpJSXs",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "GF3QPOgQCxiEEwse1OVuxTaYBC4",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS4xM0YyM0RDNDE4REQ1NDA0",
+      snippet: {
+        publishedAt: "2021-03-15T19:08:18Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn CSS In Arabic 2021 - #68 - 2D Transform - Skew",
+        description:
+          "2D Transform - Skew\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/N2G8JUK7kJs/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/N2G8JUK7kJs/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/N2G8JUK7kJs/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/N2G8JUK7kJs/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/N2G8JUK7kJs/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 67,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "N2G8JUK7kJs",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "yMlsFNXVySKGZ43wauDORwkV-cc",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS42MjYzMTMyQjA0QURCN0JF",
+      snippet: {
+        publishedAt: "2021-03-15T19:09:27Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn CSS In Arabic 2021 - #69 - 2D Transform - Matrix",
+        description:
+          "2D Transform - Matrix\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/OsypTHsvnVI/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/OsypTHsvnVI/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/OsypTHsvnVI/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/OsypTHsvnVI/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/OsypTHsvnVI/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 68,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "OsypTHsvnVI",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "ZFqUrt9rZhcGmcc3NLfKSFpbUVo",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS40MDNEMzA0QTBFRThFMzBE",
+      snippet: {
+        publishedAt: "2021-03-15T19:10:30Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn CSS In Arabic 2021 - #70 - Transform - Origin",
+        description:
+          "Transform - Origin\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/DW0-7s_xJ90/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/DW0-7s_xJ90/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/DW0-7s_xJ90/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/DW0-7s_xJ90/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/DW0-7s_xJ90/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 69,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "DW0-7s_xJ90",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "KUXiwYITwzdANK5wRil7PKaZIsY",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS42RTNCOEMxREI3Q0VDMjU2",
+      snippet: {
+        publishedAt: "2021-03-15T19:11:45Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn CSS In Arabic 2021 - #71 - 3D Transform - Rotate",
+        description:
+          "3D Transform - Rotate\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/WF9LU1IIERM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/WF9LU1IIERM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/WF9LU1IIERM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/WF9LU1IIERM/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/WF9LU1IIERM/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 70,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "WF9LU1IIERM",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "Hjlqzfilhm7fpbc7rWdzTc2cFVM",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS43QzNCNkZENzIyMDY2MjZB",
+      snippet: {
+        publishedAt: "2021-03-15T19:12:47Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #72 - 3D Transform - Translate, Perspective, Perspective Origin",
+        description:
+          "3D Transform - Translate, Perspective, Perspective Origin\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/FnIdCYWmJ8A/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/FnIdCYWmJ8A/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/FnIdCYWmJ8A/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/FnIdCYWmJ8A/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/FnIdCYWmJ8A/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 71,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "FnIdCYWmJ8A",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "s2K0qQJkHMdAQ5t_MFPa8Vf7AGQ",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS5EQkE3RTJCQTJEQkFBQTcz",
+      snippet: {
+        publishedAt: "2021-03-15T19:14:20Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #73 - 3D Transform - Backface Visibility And Flip Product",
+        description:
+          "3D Transform - Backface Visibility And Flip Product\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/7G-a-PHsGyM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/7G-a-PHsGyM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/7G-a-PHsGyM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/7G-a-PHsGyM/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/7G-a-PHsGyM/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 72,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "7G-a-PHsGyM",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "SO3kRoVL01h_lIHfGnIdMjOEA8A",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS4yQzk4QTA5QjkzMTFFOEI1",
+      snippet: {
+        publishedAt: "2021-03-16T19:31:44Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #74 - Animation - KeyFrames, Name, Duration",
+        description:
+          "Animation - KeyFrames, Name, Duration\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/cfq7u52lvfI/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/cfq7u52lvfI/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/cfq7u52lvfI/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/cfq7u52lvfI/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/cfq7u52lvfI/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 73,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "cfq7u52lvfI",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "COQVKfnGud-Ou-hMFO-9ScXw6Uo",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS45NDlDQUFFOThDMTAxQjUw",
+      snippet: {
+        publishedAt: "2021-03-16T19:33:06Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #75 - Animation - Iteration Count, Timing Function, Spinner Loading",
+        description:
+          "Animation - Iteration Count, Timing Function, Spinner Loading\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/NPy2GGDX-kg/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/NPy2GGDX-kg/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/NPy2GGDX-kg/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/NPy2GGDX-kg/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/NPy2GGDX-kg/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 74,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "NPy2GGDX-kg",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "kCfk6_5njhhOgP4J05_1OADo5XU",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS4xN0Y2QjVBOEI2MzQ5OUM5",
+      snippet: {
+        publishedAt: "2021-03-16T19:36:30Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #76 - Animation - Direction, Fill Mode, Play State, Delay",
+        description:
+          "Animation - Direction, Fill Mode, Play State, Delay\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/P2QAAXONOac/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/P2QAAXONOac/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/P2QAAXONOac/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/P2QAAXONOac/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/P2QAAXONOac/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 75,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "P2QAAXONOac",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "m7pFsdJ3WS0W3mZjegX2V9vfNo8",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS5FQUY2Qzk4RUFDN0ZFRkZF",
+      snippet: {
+        publishedAt: "2021-03-16T19:37:40Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #77 - Up And Down Loading Animation Training",
+        description:
+          "Up And Down Loading Animation Training\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/9Q8W2YK3dyk/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/9Q8W2YK3dyk/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/9Q8W2YK3dyk/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/9Q8W2YK3dyk/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/9Q8W2YK3dyk/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 76,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "9Q8W2YK3dyk",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "_DakeCty9c6FndwTVFbzgf3gvic",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS5CMEVBRUJERkUyNTBENTkz",
+      snippet: {
+        publishedAt: "2021-03-18T17:07:25Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #78 - CSS Selectors Reference Part 1",
+        description:
+          "CSS Selectors Reference Part 1\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/PbKHU1Fb1oQ/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/PbKHU1Fb1oQ/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/PbKHU1Fb1oQ/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/PbKHU1Fb1oQ/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/PbKHU1Fb1oQ/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 77,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "PbKHU1Fb1oQ",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "cJyo6yEhN5bzjRzlD9QLu9hnzCo",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS4xNjIyNEE0MDEyRDlCMjBE",
+      snippet: {
+        publishedAt: "2021-03-18T17:08:25Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #79 - CSS Selectors Reference Part 2",
+        description:
+          "CSS Selectors Reference Part 2\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/WPOpfk_eCVE/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/WPOpfk_eCVE/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/WPOpfk_eCVE/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/WPOpfk_eCVE/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/WPOpfk_eCVE/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 78,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "WPOpfk_eCVE",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "_sGxcSW3lzY1FWepneAjw74TXyc",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS44QTY2MEEzNzBFQUJCMUQ2",
+      snippet: {
+        publishedAt: "2021-03-18T17:09:41Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #80 - CSS Selectors Reference Part 3",
+        description:
+          "CSS Selectors Reference Part 3\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/NJThXQrhmB0/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/NJThXQrhmB0/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/NJThXQrhmB0/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/NJThXQrhmB0/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/NJThXQrhmB0/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 79,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "NJThXQrhmB0",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "M3P9UaMU_iJHIW0GcOrF00VJHpg",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS4zQTkzRjgxRTY0OEU0MkM3",
+      snippet: {
+        publishedAt: "2021-03-18T17:10:27Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #81 - CSS Selectors Reference Part 4",
+        description:
+          "CSS Selectors Reference Part 4\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/s6vDg-XoZ_Y/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/s6vDg-XoZ_Y/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/s6vDg-XoZ_Y/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/s6vDg-XoZ_Y/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/s6vDg-XoZ_Y/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 80,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "s6vDg-XoZ_Y",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "-k8drWGrnNCsPTtYnkzM321KR-0",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS4xNTZBNUQxMDZBQzFGMjkw",
+      snippet: {
+        publishedAt: "2021-03-18T17:11:26Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #82 - CSS Selectors Reference Part 5",
+        description:
+          "CSS Selectors Reference Part 5\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/eN9HxtDHREM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/eN9HxtDHREM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/eN9HxtDHREM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/eN9HxtDHREM/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/eN9HxtDHREM/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 81,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "eN9HxtDHREM",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "Jc7ImKGlY3mt1_m0nrOUyGI9tu0",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS4wMDFGNzBEOTU4Q0Y1Q0RG",
+      snippet: {
+        publishedAt: "2021-03-24T20:30:26Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #83 - Media Queries And Responsive Designs Intro",
+        description:
+          "Media Queries And Responsive Designs Intro\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/F9FAcVwSV4c/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/F9FAcVwSV4c/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/F9FAcVwSV4c/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/F9FAcVwSV4c/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/F9FAcVwSV4c/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 82,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "F9FAcVwSV4c",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "Z6PcBM7eCxFnzcKn2ixj3laNEZU",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS44QTA1QTQyRTc3M0VGQzYx",
+      snippet: {
+        publishedAt: "2021-03-24T20:31:26Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #84 - Media Queries And Responsive Designs Standards",
+        description:
+          "Media Queries And Responsive Designs Standards\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/b2rWjPIZDT0/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/b2rWjPIZDT0/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/b2rWjPIZDT0/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/b2rWjPIZDT0/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/b2rWjPIZDT0/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 83,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "b2rWjPIZDT0",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "WzqpZG5z9JTq7uMmppyeW6aXhsA",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS44MkM2RjVEQkQ5N0I2MjVE",
+      snippet: {
+        publishedAt: "2021-03-24T20:32:16Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #85 - Media Queries And Responsive Designs Practice",
+        description:
+          "Media Queries And Responsive Designs Practice\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/QdXQ0Wa9oPY/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/QdXQ0Wa9oPY/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/QdXQ0Wa9oPY/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/QdXQ0Wa9oPY/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/QdXQ0Wa9oPY/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 84,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "QdXQ0Wa9oPY",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "EzjSzjJkX6qGiDxZLXSGUcTX9Ls",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS40NzE2MTY1QTM3RUI3QkU3",
+      snippet: {
+        publishedAt: "2021-03-26T17:01:19Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn CSS In Arabic 2021 - #86 - Create Your Framework",
+        description:
+          "Create Your Framework\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/xkFDwIPOzik/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/xkFDwIPOzik/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/xkFDwIPOzik/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/xkFDwIPOzik/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/xkFDwIPOzik/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 85,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "xkFDwIPOzik",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "DRaKzYNRsmZSORJXNVaEKBGoyzg",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS5EMzJDRTUwQjBEOUVFQzAw",
+      snippet: {
+        publishedAt: "2021-03-26T17:02:42Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title: "Learn CSS In Arabic 2021 - #87 - CSS Global Values",
+        description:
+          "CSS Global Values\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/iueBHixQyX0/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/iueBHixQyX0/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/iueBHixQyX0/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/iueBHixQyX0/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/iueBHixQyX0/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 86,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "iueBHixQyX0",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+    {
+      kind: "youtube#playlistItem",
+      etag: "JwZPzktMQwqAtmPiNV7zurnHKqM",
+      id: "UExEb1Bqdm9ObUJBempzejA2Z2t6bFNybGV2NTNNR0lLZS5CMUM0NzY5NzdEQzlGRjAx",
+      snippet: {
+        publishedAt: "2021-03-26T17:03:38Z",
+        channelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        title:
+          "Learn CSS In Arabic 2021 - #88 - The End And How To Master HTML And CSS",
+        description:
+          "The End And How To Master HTML And CSS\n\nCode & Notice:\nhttps://elzero.org/category/courses/css-course/\n\nAssignments:\nhttps://elzero.org/category/assignments/css-assignments/\n\n=============================\n\nSupport Me on Patreon to Help me Create More Videos\nhttps://www.patreon.com/OsamaElzero\n\nI will be Very Happy if you Support my Channel.\nhttp://elzero.org/support/\n\nJoin Our Facebook Group:\nhttps://www.facebook.com/groups/ElzeroWebSchool/\n\nFollow My Facebook Profile:\nhttps://www.facebook.com/OsElzero\n\nLike Facebook Page:\nhttps://www.facebook.com/ElzeroWebSchool/\n\nFollow Me On Twitter:\nhttps://twitter.com/Osama_Elzero",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/YKUkssSbVls/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/YKUkssSbVls/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/YKUkssSbVls/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/YKUkssSbVls/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/YKUkssSbVls/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Elzero Web School",
+        playlistId: "PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe",
+        position: 87,
+        resourceId: {
+          kind: "youtube#video",
+          videoId: "YKUkssSbVls",
+        },
+        videoOwnerChannelTitle: "Elzero Web School",
+        videoOwnerChannelId: "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      },
+    },
+  ],
+  pageInfo: {
+    totalResults: 88,
+    resultsPerPage: 50,
+  },
+};
 
 let htmlItems = htmlJson.items;
+let secItems = secJson.items;
 let htmlLength = htmlItems.length;
+let secLength = secItems.length;
 let toggle = document.querySelector(".toggle");
 let btnList = document.querySelector(".btnList");
 
-for (let i = 0; i < htmlLength; i++) {
-  console.log(htmlItems[i].snippet.resourceId.videoId);
-}
 
 // toggle function
 toggle.addEventListener("click", () => {
@@ -2456,6 +4314,13 @@ for (let i = 0; i < htmlLength; i++) {
   lessonBtn.appendChild(btnText);
   btnList.appendChild(lessonBtn);
 }
+for (let i = 0; i < secLength; i++) {
+  let secLessonBtn = document.createElement("button");
+  let btnText = document.createTextNode(`Lesson ${i + 51}`);
+  secLessonBtn.classList.add("secLessonBtn");
+  secLessonBtn.appendChild(btnText);
+  btnList.appendChild(secLessonBtn);
+}
 let lessonBtn = document.querySelectorAll(".lessonBtn");
 for (let i = 0; i < htmlLength; i++) {
   lessonBtn[i].addEventListener("click", () => {
@@ -2464,12 +4329,11 @@ for (let i = 0; i < htmlLength; i++) {
     ).src = `https://www.youtube.com/embed/${htmlItems[i].snippet.resourceId.videoId}?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe`;
   });
 }
-/* <iframe
-  width="727"
-  height="409"
-  src="https://www.youtube.com/embed/8YWrmZoUYGs"
-  title="How to Use the YouTube API in React to Add a Playlist to a Next.js App"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen
-></iframe>; */
+let secLessonBtn = document.querySelectorAll(".secLessonBtn");
+for (let i = 0; i < secLength; i++) {
+  secLessonBtn[i].addEventListener("click", () => {
+    document.getElementById(
+      "videoFrame"
+    ).src = `https://www.youtube.com/embed/${secItems[i].snippet.resourceId.videoId}?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe`;
+  });
+}
