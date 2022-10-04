@@ -1,0 +1,74 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --nav-color: #633bf3;
+  --font: #9227f9;
+  --bg: #dce2f1;
+  --white: #fff;
+  --gradient: linear-gradient(#9227f9, #633bf3);
+  --gradient-hover: linear-gradient(#633bf3, #9227f9);
+}
+
+.content {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  min-height: 100vh;
+  padding-top: 55px;
+}
+.content .btnList {
+  list-style: none;
+  position: relative;
+  width: 500px;
+  overflow-y: auto;
+  overflow-x: visible;
+  height: 100vh;
+  overflow: auto;
+}
+.content .btnList button {
+  width: 100%;
+  background: var(--gradient);
+  color: var(--white);
+  height: 30px;
+  font-size: 20px;
+  border: none;
+  border-bottom: 1px solid var(--bg);
+}
+.content .video {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content .video iframe {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.content .video p {
+  padding: 0px 20px;
+}
+@media (max-width: 750px) {
+  .content .btnList {
+    display: none;
+  }
+}
+
+.toggle {
+  position: fixed;
+  top: 50%;
+  right: 10px;
+  z-index: 10;
+  color: var(--font);
+  transform: translateY(-50%);
+  font-size: 50px;
+}
+
+@media (min-width: 750px) {
+  .toggle {
+    display: none;
+  }
+}/*# sourceMappingURL=course.css.map */

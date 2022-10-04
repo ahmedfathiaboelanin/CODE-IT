@@ -9,8 +9,20 @@ let closePop = document.querySelector(".close");
 let popCreator = popup.childNodes[3].children[2].children[1];
 let popCImg = popup.childNodes[3].children[2].children[0];
 let popDate = popup.childNodes[3].children[3];
+let popList = document.querySelector(".popList")
 // ----------------------------------------------
-
+// courses content
+let front = {
+  HTML: ["tags","comments","semantic","html5"],
+  CSS: [],
+  JavaScript: [],
+  Bootstrap: [],
+  Sass: [],
+  Jquery: [],
+  Angular: [],
+  React: [],
+  Vue: []
+};
 // filter by select
 select.onchange = () => {
     for (let i = 0; i < course.length; i++){
@@ -22,8 +34,10 @@ select.onchange = () => {
             }
         }
 }
-// ------------------------
-
+// -----------------------
+for (let i = 0; i < courseBtn.length; i++){
+    console.log(courseBtn[i].parentElement.children[1].innerHTML)
+}
 // filter by search input
 // --------------------------
 
@@ -35,6 +49,16 @@ for (let i = 0; i < courseBtn.length; i++){
         popCreator.innerHTML = courseBtn[i].parentElement.children[4].childNodes[1].innerHTML;
         popDate.innerHTML = courseBtn[i].parentElement.children[3].innerHTML;
         popCImg.src = courseBtn[i].parentElement.children[0].src;
+        let courseContent = courseBtn[i].parentElement.children[1].innerHTML;
+        let catContent =
+          courseBtn[i].parentElement.parentElement.parentElement.parentElement
+            .parentElement.parentElement.parentElement.dataset.search;
+        for (let j = 0; j < courseContent.size; j++){
+            let list = document.createElement("li");
+            let listContent = document.createTextNode(`${catContent.courseContent[j]}`)
+            list.appendChild(listContent);
+            popList.appendChild(list)
+        }
         layer.setAttribute("style","display:flex;")
     })
 }
