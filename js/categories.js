@@ -1,3 +1,6 @@
+window.onload = () => {
+    document.querySelector(".preloader").setAttribute("style","display:none")
+}
 // select element
 let select = document.getElementById("filter");
 let search = document.querySelector(".searchInput");
@@ -36,10 +39,8 @@ select.onchange = () => {
         }
 }
 // -----------------------
-for (let i = 0; i < courseBtn.length; i++){
-    // console.log(courseBtn[i].parentElement.children[1].innerHTML)
-}
 // filter by search input
+
 // --------------------------
 
 // show and hide popup

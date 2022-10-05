@@ -178,3 +178,20 @@ section {
     background-color: rgba(0, 0, 0, 0.425);
     display: none;
 }
+.preloader {
+    position: fixed;
+    top: 0;
+    z-index: 1000000000;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--font);
+    img{
+        background-color: var(--font);
+        width: 100px;
+        border-radius: 50%;
+    }
+}

@@ -167,4 +167,22 @@ section .courses .title h2 {
   z-index: -1;
   background-color: rgba(0, 0, 0, 0.425);
   display: none;
+}
+
+.preloader {
+  position: fixed;
+  top: 0;
+  z-index: 1000000000;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--font);
+}
+.preloader img {
+  background-color: var(--font);
+  width: 100px;
+  border-radius: 50%;
 }/*# sourceMappingURL=cat.css.map */
