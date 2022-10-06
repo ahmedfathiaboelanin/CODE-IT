@@ -1,0 +1,76 @@
+:root {
+  --nav-color: #633bf3;
+  --font: #9227f9;
+  --bg: #f0f0f0;
+  --white: #fff;
+  --gradient: linear-gradient(#9227f9, #633bf3);
+  --gradient-hover: linear-gradient(#633bf3, #9227f9);
+}
+
+body {
+  font-family: Tahoma;
+  overflow-x: hidden;
+}
+
+section {
+  width: 100%;
+  min-height: 100vh;
+  padding: 55px 0px;
+  background-color: var(--bg);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 50px;
+  align-items: center;
+}
+section h1 {
+  text-align: center;
+  color: var(--font);
+}
+section .content {
+  position: relative;
+  border: 2px solid var(--nav-color);
+  padding: 50px 50px 20px;
+}
+section .content .answer {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+  border-bottom: 1px solid var(--font);
+  padding-bottom: 10px;
+}
+section .content .answer input:checked + label {
+  color: var(--font);
+}
+section .content .btns {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+section .content .btns button {
+  background: var(--gradient);
+  color: white;
+  width: 150px;
+}
+section .content .num {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  padding: 10px;
+  background: var(--gradient-hover);
+  display: block;
+  width: 110px;
+  margin: auto;
+  color: var(--white);
+  text-align: center;
+  border-radius: 5px;
+}
+section .content .correct {
+  font-size: 20px;
+  color: var(--white);
+  text-align: center;
+  background-color: rgb(35, 209, 35);
+  margin-top: 30px;
+  padding: 10px;
+  display: none;
+}/*# sourceMappingURL=quiz.css.map */
