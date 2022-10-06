@@ -27,16 +27,13 @@ section{
     .content{
         position: relative;
         border: 2px solid var(--nav-color);
-        padding: 50px 50px 20px;
+        padding: 70px 50px 20px;
         .answer{
             margin-top: 20px;
             display: flex;
             gap: 10px;
             border-bottom: 1px solid var(--font);
             padding-bottom: 10px;
-            input{
-                
-            }
             input:checked + label{
                 color: var(--font);
             }
@@ -45,6 +42,8 @@ section{
             display: flex;
             justify-content: space-between;
             margin-top: 20px;
+            gap: 20px;
+            flex-wrap: wrap;
             button{
                 background: var(--gradient);
                 color: white;
@@ -73,5 +72,23 @@ section{
             padding: 10px;
             display: none;
         }
+    }
+}
+.preloader {
+    position: fixed;
+    top: 0;
+    z-index: 1000000000;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--font);
+
+    img {
+        background-color: var(--font);
+        width: 100px;
+        border-radius: 50%;
     }
 }
