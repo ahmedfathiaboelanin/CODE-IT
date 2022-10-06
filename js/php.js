@@ -4465,6 +4465,8 @@ toggle.addEventListener("click", () => {
   }
 });
 
+document.querySelector(".title").innerHTML = htmlItems[0].snippet.title;
+
 for (let i = 0; i < htmlLength; i++) {
   let lessonBtn = document.createElement("button");
   let btnText = document.createTextNode(`Lesson ${i + 1}`);
@@ -4485,6 +4487,8 @@ for (let i = 0; i < htmlLength; i++) {
     document.getElementById(
       "videoFrame"
     ).src = `https://www.youtube.com/embed/${htmlItems[i].snippet.resourceId.videoId}?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq`;
+            document.querySelector(".title").innerHTML =
+              htmlItems[i].snippet.title;
   });
 }
 let secLessonBtn = document.querySelectorAll(".secLessonBtn");
@@ -4493,5 +4497,8 @@ for (let i = 0; i < secLength; i++) {
     document.getElementById(
       "videoFrame"
     ).src = `https://www.youtube.com/embed/${secItems[i].snippet.resourceId.videoId}?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq`;
+            document.querySelector(".title").innerHTML =
+              secItems[i].snippet.title;
+
   });
 }

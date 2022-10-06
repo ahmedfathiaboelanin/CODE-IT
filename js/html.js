@@ -1,5 +1,4 @@
-
-// select elements 
+// select elements
 let htmlJson = {
   kind: "youtube#playlistItemListResponse",
   etag: "YcUmrggbQ2l2khkaCRTYL5CTKsw",
@@ -1805,43 +1804,37 @@ let htmlLength = htmlItems.length;
 let toggle = document.querySelector(".toggle");
 let btnList = document.querySelector(".btnList");
 
-for (let i = 0; i < htmlLength; i++){
-    console.log(htmlItems[i].snippet.resourceId.videoId);
+for (let i = 0; i < htmlLength; i++) {
+  console.log(htmlItems[i].snippet.resourceId.videoId);
 }
 
 // toggle function
 toggle.addEventListener("click", () => {
-    if (btnList.style.display == "none") {
-          btnList.setAttribute(
-            "style",
-            "display:block; position:fixed; top:55px; width:50%;"
-          );
-    } else {
-        btnList.setAttribute("style","display:none")
-    }
+  if (btnList.style.display == "none") {
+    btnList.setAttribute(
+      "style",
+      "display:block; position:fixed; top:55px; width:50%;"
+    );
+  } else {
+    btnList.setAttribute("style", "display:none");
+  }
 });
 
+document.querySelector(".title").innerHTML = htmlItems[0].snippet.title;
+
 for (let i = 0; i < htmlLength; i++) {
-    let lessonBtn = document.createElement("button");
-    let btnText = document.createTextNode(`Lesson ${i + 1}`);
-    lessonBtn.classList.add("lessonBtn")
-    lessonBtn.appendChild(btnText)
-    btnList.appendChild(lessonBtn)
+  let lessonBtn = document.createElement("button");
+  let btnText = document.createTextNode(`Lesson ${i + 1}`);
+  lessonBtn.classList.add("lessonBtn");
+  lessonBtn.appendChild(btnText);
+  btnList.appendChild(lessonBtn);
 }
-let lessonBtn = document.querySelectorAll(".lessonBtn")
-for (let i = 0; i < htmlLength; i++){
-        lessonBtn[i].addEventListener("click", () => {
-          document.getElementById(
-            "videoFrame"
-          ).src = `https://www.youtube.com/embed/${htmlItems[i].snippet.resourceId.videoId}?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji`;
-        });
+let lessonBtn = document.querySelectorAll(".lessonBtn");
+for (let i = 0; i < htmlLength; i++) {
+  lessonBtn[i].addEventListener("click", () => {
+    document.getElementById(
+      "videoFrame"
+    ).src = `https://www.youtube.com/embed/${htmlItems[i].snippet.resourceId.videoId}?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji`;
+    document.querySelector(".title").innerHTML = htmlItems[i].snippet.title;
+  });
 }
-/* <iframe
-  width="727"
-  height="409"
-  src="https://www.youtube.com/embed/8YWrmZoUYGs"
-  title="How to Use the YouTube API in React to Add a Playlist to a Next.js App"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen
-></iframe>; */

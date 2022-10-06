@@ -949,6 +949,7 @@ toggle.addEventListener("click", () => {
     btnList.setAttribute("style", "display:none");
   }
 });
+ document.querySelector(".title").innerHTML = htmlItems[0].snippet.title;
 
 for (let i = 0; i < htmlLength; i++) {
   let lessonBtn = document.createElement("button");
@@ -963,5 +964,8 @@ for (let i = 0; i < htmlLength; i++) {
     document.getElementById(
       "videoFrame"
     ).src = `https://www.youtube.com/embed/${htmlItems[i].snippet.resourceId.videoId}?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2`;
+            document.querySelector(".title").innerHTML =
+              htmlItems[i].snippet.title;
+
   });
 }

@@ -5840,6 +5840,7 @@ toggle.addEventListener("click", () => {
     btnList.setAttribute("style", "display:none");
   }
 });
+document.querySelector(".title").innerHTML = htmlItems[0].snippet.title;
 
 for (let i = 0; i < htmlLength; i++) {
   let lessonBtn = document.createElement("button");
@@ -5868,6 +5869,7 @@ for (let i = 0; i < htmlLength; i++) {
     document.getElementById(
       "videoFrame"
     ).src = `https://www.youtube.com/embed/${htmlItems[i].snippet.resourceId.videoId}?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd`;
+        document.querySelector(".title").innerHTML = htmlItems[i].snippet.title;
   });
 }
 let secLessonBtn = document.querySelectorAll(".secLessonBtn");
@@ -5876,6 +5878,7 @@ for (let i = 0; i < secLength; i++) {
     document.getElementById(
       "videoFrame"
     ).src = `https://www.youtube.com/embed/${secItems[i].snippet.resourceId.videoId}?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd`;
+        document.querySelector(".title").innerHTML = secItems[i].snippet.title;
   });
 }
 let thirdLessonBtn = document.querySelectorAll(".thirdLessonBtn");
@@ -5884,5 +5887,7 @@ for (let i = 0; i < thirdLength; i++) {
     document.getElementById(
       "videoFrame"
     ).src = `https://www.youtube.com/embed/${thirdItem[i].snippet.resourceId.videoId}?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd`;
+        document.querySelector(".title").innerHTML = thirdItem[i].snippet.title;
+
   });
 }
